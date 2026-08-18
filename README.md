@@ -6,10 +6,11 @@
 
 - `Lesson 01`：情境词汇实验室
 - `Lesson 02`：失落科研岛探险
+- `Lesson 04`：高价值词汇互动记忆训练（16 词）
 
 ## 添加新课程
 
-1. 将单文件网页放入 `lessons/`，按 `lesson-03.html`、`lesson-04.html` 依次命名。
+1. 将单文件网页放入 `lessons/`，按 `lesson-NN.html` 格式命名（例如 `lesson-04.html`）。
 2. 在根目录 `index.html` 的课程列表中添加入口卡片。
 3. 推送到 `main` 分支后，GitHub Pages 会自动重新部署。
 
